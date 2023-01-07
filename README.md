@@ -1,2 +1,2 @@
-# SDNAlexa
-A way of Controlling SDN networks with Alexa
+# SDNHome
+Simplifying home networking using SDN (Ryu) and Alexa
